@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Ronde';
+    src: url('./Ronde-B_square.otf') format('opentype');
+}
+
+
+.hello {
+    color: red;
+    font-family: 'Ronde';
+    background: url('./monastery-6560623_640.jpg');
+}
